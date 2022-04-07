@@ -1,0 +1,36 @@
+.tech {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: .75em;
+  font-weight: 700;
+  line-height: 1;
+  color: #333;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+}
+
+.javascript {
+  --bs-bg-opacity: 1;
+  background-color: var(--secondary);
+}
+
+.html {
+  --bs-bg-opacity: 1;
+  background-color: #ff8160;
+}
+
+.android {
+  --bs-bg-opacity: 1;
+  background-color: #31d780;
+}
+
+.react {
+  --bs-bg-opacity: 1;
+  background-color: #5ed3f2;
+}
+.css {
+  --bs-bg-opacity: 1;
+  background-color: #6fbfff;
+}

@@ -1,0 +1,31 @@
+.profile {
+  padding-top: 40px;
+  position: relative;
+  .box {
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgb(0 0 0 / 12%), 0 1px 4px rgb(0 0 0 / 24%);
+    padding:0;
+    .info {
+      padding: 57px 50px 30px 50px;
+
+      .profile-greeting {
+        margin-bottom: 18px;
+        font-size: 24px;
+        font-weight: 600;
+        color: #00A78E;
+        letter-spacing: 4px;
+      }
+      .profile-title {
+        font-size: 36px;
+        line-height: 1.1;
+        font-weight: 700;
+        margin-bottom: 5px;
+        span {
+          font-weight: 300;
+        }
+      }
+
+
+    }
+  }
+}
